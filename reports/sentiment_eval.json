@@ -1,0 +1,145 @@
+{
+  "trained_at": "2026-11-26 15:19:31",
+  "sklearn": "1.9.1",
+  "n_train": 9392,
+  "n_test": 2328,
+  "chosen_C": 4.0,
+  "doc_level": {
+    "sentfin_test (Indian headlines)": {
+      "n": 1876,
+      "accuracy": 0.8428,
+      "macro_f1": 0.8428,
+      "majority_baseline_acc": 0.3593,
+      "confusion_matrix(labels=neg,neu,pos)": [
+        [
+          436,
+          64,
+          37
+        ],
+        [
+          33,
+          576,
+          65
+        ],
+        [
+          30,
+          66,
+          569
+        ]
+      ],
+      "per_class": {
+        "negative": {
+          "precision": 0.874,
+          "recall": 0.812,
+          "f1-score": 0.842,
+          "support": 537.0
+        },
+        "neutral": {
+          "precision": 0.816,
+          "recall": 0.855,
+          "f1-score": 0.835,
+          "support": 674.0
+        },
+        "positive": {
+          "precision": 0.848,
+          "recall": 0.856,
+          "f1-score": 0.852,
+          "support": 665.0
+        }
+      }
+    },
+    "phrasebank_test": {
+      "n": 452,
+      "accuracy": 0.8938,
+      "macro_f1": 0.8736,
+      "majority_baseline_acc": 0.6062,
+      "confusion_matrix(labels=neg,neu,pos)": [
+        [
+          49,
+          5,
+          3
+        ],
+        [
+          2,
+          258,
+          14
+        ],
+        [
+          5,
+          19,
+          97
+        ]
+      ],
+      "per_class": {
+        "negative": {
+          "precision": 0.875,
+          "recall": 0.86,
+          "f1-score": 0.867,
+          "support": 57.0
+        },
+        "neutral": {
+          "precision": 0.915,
+          "recall": 0.942,
+          "f1-score": 0.928,
+          "support": 274.0
+        },
+        "positive": {
+          "precision": 0.851,
+          "recall": 0.802,
+          "f1-score": 0.826,
+          "support": 121.0
+        }
+      }
+    },
+    "all_test": {
+      "n": 2328,
+      "accuracy": 0.8527,
+      "macro_f1": 0.8512,
+      "majority_baseline_acc": 0.4072,
+      "confusion_matrix(labels=neg,neu,pos)": [
+        [
+          485,
+          69,
+          40
+        ],
+        [
+          35,
+          834,
+          79
+        ],
+        [
+          35,
+          85,
+          666
+        ]
+      ],
+      "per_class": {
+        "negative": {
+          "precision": 0.874,
+          "recall": 0.816,
+          "f1-score": 0.844,
+          "support": 594.0
+        },
+        "neutral": {
+          "precision": 0.844,
+          "recall": 0.88,
+          "f1-score": 0.862,
+          "support": 948.0
+        },
+        "positive": {
+          "precision": 0.848,
+          "recall": 0.847,
+          "f1-score": 0.848,
+          "support": 786.0
+        }
+      }
+    }
+  },
+  "entity_level": {
+    "n_entity_mentions": 615,
+    "doc_level_accuracy": 0.4943,
+    "target_clause_accuracy": 0.5398,
+    "doc_level_macro_f1": 0.4961,
+    "target_clause_macro_f1": 0.5443
+  }
+}

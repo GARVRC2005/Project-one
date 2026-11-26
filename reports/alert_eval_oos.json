@@ -1,0 +1,30 @@
+{
+  "cutoff_day": "2026-09-11",
+  "n_alerts_scored": 2575,
+  "by_severity": [
+    {
+      "severity": "HIGH",
+      "n": 565,
+      "mean_abs_realized_car_pct": 3.642,
+      "median_abs_realized_car_pct": 2.791,
+      "direction_hit_rate": 0.602
+    },
+    {
+      "severity": "LOW",
+      "n": 1023,
+      "mean_abs_realized_car_pct": 2.075,
+      "median_abs_realized_car_pct": 1.484,
+      "direction_hit_rate": 0.55
+    },
+    {
+      "severity": "MEDIUM",
+      "n": 987,
+      "mean_abs_realized_car_pct": 2.504,
+      "median_abs_realized_car_pct": 1.861,
+      "direction_hit_rate": 0.575
+    }
+  ],
+  "spearman_priority_vs_abs_move": 0.179,
+  "p_value": 6.46e-20,
+  "direction_hit_rate_all": 0.573
+}

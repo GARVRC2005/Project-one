@@ -1,0 +1,113 @@
+# Phrases that look like a universe alias but refer to a DIFFERENT entity.
+# They are matched first (longest-match wins) and consume the span so the alias inside them is not tagged.
+Adani Green
+Adani Power
+Adani Energy Solutions
+Adani Energy
+Adani Total Gas
+Adani Wilmar
+Adani Transmission
+Adani Group
+Apollo Tyres
+Apollo Micro
+Axis Securities
+Axis Mutual Fund
+Axis MF
+Axis Capital
+Axis Max Life
+Bajaj Housing Finance
+Bajaj Electricals
+Bajaj Consumer
+Bajaj Hindusthan
+Bajaj Holdings
+Bharti Hexacom
+HDFC Securities
+HDFC Mutual Fund
+HDFC MF
+HDFC AMC
+HDFC Asset Management
+HDFC Sky
+HDFC Ergo
+ICICI Securities
+ICICI Direct
+ICICIdirect
+ICICI Prudential
+ICICI Pru
+ICICI Lombard
+Indigo Paints
+ITC Hotels
+JSW Energy
+JSW Infrastructure
+JSW Infra
+JSW Paints
+JSW Cement
+JSW MG
+JSW Group
+Kotak Securities
+Kotak Institutional Equities
+Kotak Mutual Fund
+Kotak MF
+Kotak AMC
+Kotak Alternate
+L&T Finance
+L&T Technology Services
+L&T Tech
+LTIMindtree
+L&T Infotech
+Mahindra Finance
+Mahindra & Mahindra Financial
+Mahindra Lifespace
+Mahindra Holidays
+Mahindra Logistics
+M&M Finance
+M&M Financial
+Max Financial
+Max Life
+Max Estates
+Nestle SA
+Nestle S.A.
+NTPC Green
+NTPC Green Energy
+Power Grid InvIT
+Reliance Power
+Reliance Infrastructure
+Reliance Infra
+Reliance Capital
+Reliance Home Finance
+Reliance Communications
+Reliance General Insurance
+Reliance Nippon
+Reliance Securities
+Reliance Group
+Anil Ambani
+SBI Cards
+SBI Card
+SBI Securities
+SBI Mutual Fund
+SBI MF
+SBI Funds
+SBI General
+Sun TV
+Sun Pharma Advanced Research
+Tata Motors Commercial Vehicles
+Tata Motors CV
+=TMCV
+Tata Power
+Tata Elxsi
+Tata Chemicals
+Tata Communications
+Tata Investment
+Tata Technologies
+Tata Capital
+Titan Intech
+Trent Hypermarket
+Shriram Properties
+Shriram AMC
+Eternal Sunshine
+HDFC Capital
+HDFC Credila
+HDFC Pension
+ICICI Venture
+ICICI Home Finance
+ICICI Prudential AMC
+ICICI Pru AMC

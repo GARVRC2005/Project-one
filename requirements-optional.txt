@@ -1,0 +1,3 @@
+# Optional: FinBERT sentiment backend (set NIA_SENTIMENT_BACKEND=finbert). ~500 MB download on first use.
+transformers>=4.40
+torch>=2.2

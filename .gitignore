@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/newsimpact.db
+data/llm_cache.sqlite
+data/prices/
+.pytest_cache/

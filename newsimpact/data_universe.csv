@@ -1,0 +1,51 @@
+symbol,yahoo,name,sector,aliases
+ADANIENT,ADANIENT.NS,Adani Enterprises,Conglomerate,Adani Enterprises;Adani Ent;=AEL;Adani Airports;Adani New Industries
+ADANIPORTS,ADANIPORTS.NS,Adani Ports & SEZ,Infrastructure,Adani Ports;=APSEZ;Adani Ports and Special Economic Zone;Adani Ports & SEZ
+APOLLOHOSP,APOLLOHOSP.NS,Apollo Hospitals,Healthcare,Apollo Hospitals;Apollo Hospital;Apollo HealthCo;Apollo 24/7;=APOLLOHOSP
+ASIANPAINT,ASIANPAINT.NS,Asian Paints,Consumer Durables,Asian Paints;Asian Paint;=ASIANPAINT
+AXISBANK,AXISBANK.NS,Axis Bank,Banking,Axis Bank;=AXISBANK
+BAJAJ-AUTO,BAJAJ-AUTO.NS,Bajaj Auto,Automobile,Bajaj Auto;=BAJAJ-AUTO;Pulsar;Chetak
+BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv,Financial Services,Bajaj Finserv;=BAJAJFINSV;Bajaj Allianz
+BAJFINANCE,BAJFINANCE.NS,Bajaj Finance,NBFC,Bajaj Finance;Bajaj Fin;=BAJFINANCE;=BAF
+BEL,BEL.NS,Bharat Electronics,Defence,Bharat Electronics;=BEL
+BHARTIARTL,BHARTIARTL.NS,Bharti Airtel,Telecom,Bharti Airtel;Airtel;=BHARTIARTL;Sunil Bharti Mittal;Gopal Vittal
+BSE,BSE.NS,BSE Ltd,Capital Markets,BSE Ltd;BSE Limited;re:\bBSE(?=\s+(?:shares?|stock|Q[1-4]|results|share price|profit|net profit|revenue)\b);re:\bBSE'?s\b
+CIPLA,CIPLA.NS,Cipla,Pharma,Cipla;=CIPLA
+COALINDIA,COALINDIA.NS,Coal India,Metals & Mining,Coal India;=CIL;=COALINDIA
+DRREDDY,DRREDDY.NS,Dr. Reddy's Laboratories,Pharma,Dr Reddy's;Dr. Reddy's;Dr Reddys;Dr. Reddys;Dr Reddy;Dr. Reddy;=DRREDDY;=DRL
+EICHERMOT,EICHERMOT.NS,Eicher Motors,Automobile,Eicher Motors;Eicher;Royal Enfield;=EICHERMOT
+ETERNAL,ETERNAL.NS,Eternal (Zomato),Consumer Services,Zomato;Blinkit;=Eternal;=ETERNAL;Deepinder Goyal
+GRASIM,GRASIM.NS,Grasim Industries,Cement,Grasim;Grasim Industries;Birla Opus
+HCLTECH,HCLTECH.NS,HCL Technologies,IT,HCL Tech;HCLTech;HCL Technologies;=HCLTECH;=HCL
+HDFCBANK,HDFCBANK.NS,HDFC Bank,Banking,HDFC Bank;=HDFCBANK;=HDFC;Sashidhar Jagdishan
+HDFCLIFE,HDFCLIFE.NS,HDFC Life Insurance,Insurance,HDFC Life;HDFC Life Insurance;=HDFCLIFE
+HINDALCO,HINDALCO.NS,Hindalco Industries,Metals & Mining,Hindalco;Hindalco Industries;Novelis
+HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever,FMCG,Hindustan Unilever;=HUL;=HINDUNILVR
+ICICIBANK,ICICIBANK.NS,ICICI Bank,Banking,ICICI Bank;=ICICIBANK;=ICICI
+INDIGO,INDIGO.NS,InterGlobe Aviation (IndiGo),Aviation,InterGlobe Aviation;InterGlobe;=IndiGo;=INDIGO;=Indigo Airlines;IndiGo Airlines
+INFY,INFY.NS,Infosys,IT,Infosys;=INFY;Salil Parekh;Nandan Nilekani
+ITC,ITC.NS,ITC,FMCG,=ITC;ITC Ltd;ITC Limited
+JIOFIN,JIOFIN.NS,Jio Financial Services,NBFC,Jio Financial Services;Jio Financial;=JFSL;=JIOFIN;Jio BlackRock;Jio Payments Bank
+JSWSTEEL,JSWSTEEL.NS,JSW Steel,Metals & Mining,JSW Steel;=JSWSTEEL
+KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank,Banking,Kotak Mahindra Bank;Kotak Bank;Kotak Mahindra;=KOTAKBANK;Uday Kotak;=Kotak
+LT,LT.NS,Larsen & Toubro,Infrastructure,Larsen & Toubro;Larsen and Toubro;=L&T;=L & T;Larsen
+M&M,M&M.NS,Mahindra & Mahindra,Automobile,Mahindra & Mahindra;Mahindra and Mahindra;=M&M;Mahindra;=M & M
+MARUTI,MARUTI.NS,Maruti Suzuki,Automobile,Maruti Suzuki;Maruti;=MSIL;=MARUTI
+MAXHEALTH,MAXHEALTH.NS,Max Healthcare,Healthcare,Max Healthcare;Max Hospital;=MAXHEALTH
+NESTLEIND,NESTLEIND.NS,Nestle India,FMCG,Nestle India;Nestle;Nestlé India;Nestlé;=NESTLEIND
+NTPC,NTPC.NS,NTPC,Power,=NTPC;NTPC Ltd
+ONGC,ONGC.NS,Oil & Natural Gas Corp,Oil & Gas,=ONGC;Oil and Natural Gas;Oil & Natural Gas;ONGC Videsh
+POWERGRID,POWERGRID.NS,Power Grid Corp,Power,Power Grid;PowerGrid;Power Grid Corporation;=POWERGRID;=PGCIL
+RELIANCE,RELIANCE.NS,Reliance Industries,Oil & Gas,Reliance Industries;=RIL;Reliance;Reliance Jio;Reliance Retail;Jio Platforms;=Jio;Mukesh Ambani;Reliance Consumer
+SBILIFE,SBILIFE.NS,SBI Life Insurance,Insurance,SBI Life;SBI Life Insurance;=SBILIFE
+SBIN,SBIN.NS,State Bank of India,Banking,State Bank of India;=SBI;=SBIN
+SHRIRAMFIN,SHRIRAMFIN.NS,Shriram Finance,NBFC,Shriram Finance;=SHRIRAMFIN
+SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical,Pharma,Sun Pharma;Sun Pharmaceutical;Sun Pharmaceuticals;=SUNPHARMA;Dilip Shanghvi
+TATACONSUM,TATACONSUM.NS,Tata Consumer Products,FMCG,Tata Consumer;Tata Consumer Products;=TATACONSUM;=TCPL
+TATASTEEL,TATASTEEL.NS,Tata Steel,Metals & Mining,Tata Steel;=TATASTEEL
+TCS,TCS.NS,Tata Consultancy Services,IT,Tata Consultancy Services;Tata Consultancy;=TCS
+TECHM,TECHM.NS,Tech Mahindra,IT,Tech Mahindra;TechM;=TECHM
+TITAN,TITAN.NS,Titan Company,Consumer Durables,Titan Company;=Titan;Tanishq;=TITAN
+TMPV,TMPV.NS,Tata Motors Passenger Vehicles,Automobile,Tata Motors Passenger Vehicles;Tata Motors Passenger Vehicle;=TMPV;=TMPVL;Tata Motors PV;Tata Motors;Jaguar Land Rover;=JLR
+TRENT,TRENT.NS,Trent,Retail,=Trent;Trent Ltd;Zudio;Westside;=TRENT
+ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement,Cement,UltraTech;UltraTech Cement;Ultratech;=ULTRACEMCO
